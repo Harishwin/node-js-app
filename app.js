@@ -6,7 +6,6 @@ app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
-app.listen(port, () => {
-    console.log(`App listening at http://43.204.218.161:3000`);
+app.listen(port, '0.0.0.0', () => {
+    console.log(`App listening on port ${port}`);
 });
-

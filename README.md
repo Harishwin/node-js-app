@@ -15,6 +15,8 @@ This repository contains a simple Node.js application built using the Express.js
 - Node.js
 - Express.js
 - Terraform
+- Docker
+- AWS
 - AWS ECS/Fargate
 - GitHub Actions
 
@@ -55,4 +57,3 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 - **AWS ECS/Fargate Documentation:** [AWS ECS/Fargate Documentation](https://aws.amazon.com/ecs/)
 - **GitHub Actions Documentation:** [GitHub Actions Documentation](https://docs.github.com/en/actions)
 
-Feel free to customize this README template further to fit the specifics of your project. Ensure that the README provides clear instructions for users to understand and interact with your application effectively.
